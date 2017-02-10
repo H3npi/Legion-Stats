@@ -1,0 +1,10 @@
+{
+    "name": "slatyoo/legionstats",
+    "description": "calculate the scaling factors of your character and compare items.", 
+    "require": {
+      "guzzlehttp/guzzle": "~6.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "5.5.*"
+    }
+}
