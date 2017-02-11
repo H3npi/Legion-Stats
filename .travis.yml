@@ -4,6 +4,8 @@ php:
   - 7.0
 install:
   - composer install --no-interaction
+  - npm install
+  - npm test
 notifications:
   email: false
   

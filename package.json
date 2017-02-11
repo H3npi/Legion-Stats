@@ -1,0 +1,34 @@
+{
+  "name": "legion-stats",
+  "version": "1.0.0",
+  "description": "Calculate the scaling factors of your character and compare items.",
+  "main": "public/assets/js/app.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "jshint public/assets/js/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Slatyo/Legion-Stats.git"
+  },
+  "keywords": [
+    "php",
+    "js",
+    "html",
+    "css",
+    "bootstrap",
+    "worldofwarcraft",
+    "simcraft"
+  ],
+  "author": "Daniel Henze",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Slatyo/Legion-Stats/issues"
+  },
+  "homepage": "https://github.com/Slatyo/Legion-Stats#readme",
+  "devDependencies": {
+    "jshint": "^2.9.4"
+  }
+}
